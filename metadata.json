@@ -1,0 +1,8 @@
+{
+  "name": "Books Library",
+  "description": "Complete offline-first digital books library and PDF reader in English and Urdu",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
